@@ -1,0 +1,13 @@
+# IDE files
+.idea/
+
+# Environment and configuration
+config.php
+
+# Dependency directories
+/vendor/
+/cache/
+
+# Other
+*.log
+/notes/

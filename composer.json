@@ -1,0 +1,17 @@
+{
+    "name": "x/spotify-asot-deduplicate",
+    "autoload": {
+        "psr-4": {
+            "Foo\\SpotifyAsotDeduplicate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberto Kok",
+            "email": "info@rkok.nl"
+        }
+    ],
+    "require": {
+        "jwilsson/spotify-web-api-php": "^6.1"
+    }
+}
